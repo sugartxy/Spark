@@ -15,7 +15,7 @@
 # https://github.com/dotnet/spark Releases section. For instance, for v0.2.0, you
 # would set it to the following URI:
 # https://github.com/dotnet/spark/releases/download/v0.2.0/Microsoft.Spark.Worker.netcoreapp2.1.linux-x64-0.2.0.tar.gz
-DOTNET_SPARK_RELEASE=https://github.com/dotnet/spark/releases/download/v0.2.0/Microsoft.Spark.Worker.netcoreapp2.1.linux-x64-0.2.0.tar.gz
+DOTNET_SPARK_RELEASE=https://github.com/dotnet/spark/releases/download/v0.6.0/Microsoft.Spark.Worker.netcoreapp2.1.linux-x64-0.6.0.tar.gz
 
 # No need to change this unless you choose to use a different location
 DBFS_INSTALLATION_ROOT=/dbfs/spark-dotnet
